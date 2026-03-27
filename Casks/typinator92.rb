@@ -1,4 +1,4 @@
-cask "typinator" do
+cask "typinator92" do
   version "9.2"
   sha256 "2558efab1afa701b4760ebf83a5f97960603b08a6ce5a3bc68be0f386c79fd64"
 
